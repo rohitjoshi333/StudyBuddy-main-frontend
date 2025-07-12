@@ -1,8 +1,3 @@
-Thanks for the update! Here's your updated `README.md` file for the **Study Buddy** project built with **React + TypeScript**:
-
----
-
-````markdown
 # 📚 Study Buddy
 
 **Study Buddy** is a modern productivity platform for students, built with **React and TypeScript**. It helps learners stay organized, revise better, and collaborate effectively — without relying on AI-based complexity. The app is designed with simplicity, focus, and clean UX in mind.
